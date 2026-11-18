@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "lv_stylized_cloud"
+version = "0.5.0"
+name = "LV Stylized Cloud Dome"
+tagline = "Procedural stylized cloud sky dome with Sun toon shading"
+maintainer = "Lvoxx"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Lighting", "Render"]
